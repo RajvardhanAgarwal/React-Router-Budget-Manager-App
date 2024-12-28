@@ -1,0 +1,5 @@
+--By Rajvardhan Agarwal--
+
+To run this project on the system, you can open your VS Code Terminal and then run the following command to run the application locally on the live server:-
+
+>> npm run dev
